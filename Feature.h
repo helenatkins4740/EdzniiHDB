@@ -7,8 +7,6 @@ namespace cheat
 	struct FeatureGUIInfo
 	{
 		std::string name;
-		std::string moduleName;
-		bool isGroup;
 	};
 
 	class Feature
